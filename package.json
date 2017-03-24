@@ -1,0 +1,21 @@
+{
+  "name": "cs641sx",
+  "version": "1.0.0",
+  "description": "Myphp practice for CS641",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolf1991/php_practice.git"
+  },
+  "author": "Shijian Xu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolf1991/php_practice/issues"
+  },
+  "homepage": "https://github.com/wolf1991/php_practice#readme"
+}
